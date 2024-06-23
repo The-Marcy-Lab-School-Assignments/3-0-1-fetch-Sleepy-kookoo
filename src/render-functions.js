@@ -1,3 +1,4 @@
+/** FEEDBACK: Look at what this function is returning and where this function is being used again! Otherwise, good job getting most test cases passing! */
 export const setupPageBasics = (parentEl) => {
   parentEl.innerHTML = `
       <h1>Intro To Fetch!</h1>
